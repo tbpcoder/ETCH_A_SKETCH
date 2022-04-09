@@ -17,7 +17,6 @@ body{
 
 
 .header{
-    padding:20px;
     background-color:rgb(27, 27, 27);
     box-shadow: 5px 10px 18px rgb(82, 82, 82);
     color:rgb(255, 193, 60);
@@ -88,4 +87,12 @@ button:hover{
 button:active{
     background-color: rgb(70, 70, 70);
     border:2px solid white;
+}
+
+.footer{
+    background-color:rgb(27, 27, 27);
+    box-shadow: 5px 10px 18px rgb(82, 82, 82);
+    color:rgb(255, 193, 60);
+    font-family: 'Press Start 2P', cursive;
+    width: 100%;
 }

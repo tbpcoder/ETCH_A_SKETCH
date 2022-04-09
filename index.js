@@ -1,5 +1,9 @@
 
-let siz=prompt("Enter 2 to 64:","16");
+let siz;
+
+do{
+    siz=prompt("Enter 2 to 64:","16");
+}while(siz<2||siz>64);
 
 
 buildGrid(siz);
