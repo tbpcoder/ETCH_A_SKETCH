@@ -7,12 +7,12 @@ body{
     color:rgb(0, 0, 0);
     margin:0;
     padding:0;
-    background-color:rgb(69, 28, 107);
+    background-color:rgb(44, 25, 63);
     justify-content:space-between;
     height: 100%;
     font-family: 'Roboto', sans-serif;
     align-items:center;
-    background-image: linear-gradient(rgb(255, 128, 238), rgb(89, 0, 124));
+    background-image: linear-gradient(rgb(121, 62, 113), rgb(55, 0, 77));
 }
 
 
@@ -30,7 +30,7 @@ body{
     justify-content:center;
     align-items:center;
     margin:30px;
-    background-color:rgb(157, 255, 0);
+    background-color:rgb(255, 0, 76);
     border:1px solid black;
     width: 575px;
     border-radius:10px ;
@@ -95,4 +95,5 @@ button:active{
     color:rgb(255, 193, 60);
     font-family: 'Press Start 2P', cursive;
     width: 100%;
+    padding: 20px 0px;
 }

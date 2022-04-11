@@ -24,7 +24,7 @@ function buildGrid(siz){
             p.append(ele);
             ele.style.flex='1';
             ele.style.backgroundColor='white';
-            ele.style.border='0.005px solid black';
+            ele.style.border='1px solid black';
 
         }
     }
